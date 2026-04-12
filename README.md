@@ -25,4 +25,4 @@ Este simulador educativo permite visualizar de forma interactiva la interacción
 - JavaScript (Vanilla)
 
 ---
-Desarrollado para la Facultad de Informática y Electrónica - ESPOCH.
+Desarrollado por Diego García (DAG94S).
